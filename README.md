@@ -6,7 +6,7 @@ This repository includes links and other resources from my GEOINT 2015 presentat
 
 ![NGA Ebola and Nepal Website]("https://nga.maps.arcgis.com/home/")
 
-![No Cost Developer Access]("https://developers.arcgis.com/")
+![Developer Access]("https://developers.arcgis.com/")
 
 Application Builders - Plugin and Go
 
