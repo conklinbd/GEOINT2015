@@ -1,5 +1,5 @@
 # GEOINT2015
-This repository includes links and other resources from my GEOINT 2015 presentation on Open Source Application Development
+This repository includes links and other resources from my GEOINT 2015 presentation on Open Source Application Development. If you think I missed please contribute additional resources
 
 
 ![IC GIS Portal]("http://urlhere")
